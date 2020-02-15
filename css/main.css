@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+box-sizing: border-box;
+}
+.photo{width: 300px;
+    height: 300px; background-color:
+     rgb(1, 255, 86);
+    margin: 5px;}
+.div{
+    width: 80% ;
+margin: auto;
+background-color: rgb(182, 245, 10);
+display:flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+body{
+    background-color: rgb(253, 0, 0);
+}
+h1 {width: 100%;
+   text-align: center; 
+background-color: blueviolet;
+font-size: 100px;
+
+}
+
+.photo1{
+    background-image: url(../img/ff.jpg)
+}
+.photo2{
+    background-image: url(../img/ff.jpg)
+}
+.photo3{
+    background-image: url(../img/ff.jpg)
+}
+.photo4{
+    background-image: url(../img/ff.jpg)
+}
+.photo5{
+    background-image: url(../img/ff.jpg)
+}
+.photo6{
+    background-image: url(../img/ff.jpg)
+}
+.photo7{
+    background-image: url(../img/ff.jpg)
+}
+.photo8{
+    background-image: url(../img/ff.jpg)
+}
+.photo9{
+    background-image: url(../img/ff.jpg)
+}
+.photo10{
+    background-image: url(../img/ff.jpg)
+}
+.photo:hover{
+    border: 2px solid orangered;
+}
